@@ -1,0 +1,30 @@
+Fecha,Tipo,Importe,Categoria,Producto,Medio_pago
+2025-01-02,Ingreso,1200.50,Ventas,Portatil gama media,Tarjeta
+2025-01-03,Gasto,150.00,Publicidad,Campana Google Ads,Tarjeta
+2025-01-05,Gasto,80.00,Logistica,Envios enero,Transferencia
+2025-01-07,Ingreso,450.00,Ventas,Monitor 24 pulgadas,PayPal
+2025-01-10,Gasto,60.00,Suscripciones,Plataforma ecommerce,Transferencia
+2025-01-15,Ingreso,300.00,Ventas,Teclado mecanico,Tarjeta
+2025-01-18,Gasto,40.00,Oficina,Material de oficina,Efectivo
+2025-01-25,Ingreso,900.00,Ventas,Portatil gama alta,Transferencia
+2025-02-01,Gasto,160.00,Publicidad,Campana Facebook Ads,Tarjeta
+2025-02-03,Ingreso,500.00,Ventas,Tablet 10 pulgadas,PayPal
+2025-02-06,Gasto,85.00,Logistica,Envios febrero,Transferencia
+2025-02-09,Ingreso,350.00,Ventas,Auriculares inalambricos,Tarjeta
+2025-02-12,Gasto,60.00,Suscripciones,Plataforma ecommerce,Transferencia
+2025-02-15,Gasto,90.00,Oficina,Sillas oficina,Efectivo
+2025-02-20,Ingreso,750.00,Ventas,Portatil gama media,Tarjeta
+2025-03-02,Ingreso,620.00,Ventas,Monitor 27 pulgadas,PayPal
+2025-03-04,Gasto,170.00,Publicidad,Campana remarketing,Tarjeta
+2025-03-06,Gasto,88.00,Logistica,Envios marzo,Transferencia
+2025-03-09,Gasto,60.00,Suscripciones,Plataforma ecommerce,Transferencia
+2025-03-12,Ingreso,400.00,Ventas,Tablet 8 pulgadas,Tarjeta
+2025-03-18,Gasto,55.00,Oficina,Limpieza local,Efectivo
+2025-03-22,Ingreso,980.00,Ventas,Portatil gama alta,Transferencia
+2025-04-01,Gasto,200.00,Publicidad,Campana lanzamiento nuevo producto,Tarjeta
+2025-04-03,Ingreso,700.00,Ventas,Portatil ultraligero,PayPal
+2025-04-05,Gasto,92.00,Logistica,Envios abril,Transferencia
+2025-04-08,Ingreso,380.00,Ventas,Impresora laser,Tarjeta
+2025-04-10,Gasto,60.00,Suscripciones,Plataforma ecommerce,Transferencia
+2025-04-15,Gasto,120.00,Oficina,Mobiliario adicional,Efectivo
+2025-04-20,Ingreso,540.00,Ventas,Monitor 24 pulgadas,PayPal
