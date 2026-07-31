@@ -4,7 +4,8 @@ Importa movimientos_financieros.csv en una tabla MySQL.
 Compatible con Python 3.13.5.
 
 Instalación:
-    python -m pip install mysql-connector-python
+    python -m pip install -r requirements.txt
+    pip install -r requirements.txt
 
 Ejecución:
     python importar_datos.py
