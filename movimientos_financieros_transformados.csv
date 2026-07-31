@@ -1,0 +1,21 @@
+Fecha,Tipo,Importe,Categoria,Producto,Medio_pago,Año,Mes,AñoMes,Importe_firmado
+2025-02-01,Ingreso,1200.5,Ventas,Portatil gama media,Tarjeta,2025,2,2025-02,1200.5
+2025-03-01,Gasto,150.0,Publicidad,Campana Google Ads,Tarjeta,2025,3,2025-03,-150.0
+2025-05-01,Gasto,80.0,Logistica,Envios enero,Transferencia,2025,5,2025-05,-80.0
+2025-07-01,Ingreso,450.0,Ventas,Monitor 24 pulgadas,PayPal,2025,7,2025-07,450.0
+2025-10-01,Gasto,60.0,Suscripciones,Plataforma ecommerce,Transferencia,2025,10,2025-10,-60.0
+2025-01-02,Gasto,160.0,Publicidad,Campana Facebook Ads,Tarjeta,2025,1,2025-01,-160.0
+2025-03-02,Ingreso,500.0,Ventas,Tablet 10 pulgadas,PayPal,2025,3,2025-03,500.0
+2025-06-02,Gasto,85.0,Logistica,Envios febrero,Transferencia,2025,6,2025-06,-85.0
+2025-09-02,Ingreso,350.0,Ventas,Auriculares inalambricos,Tarjeta,2025,9,2025-09,350.0
+2025-12-02,Gasto,60.0,Suscripciones,Plataforma ecommerce,Transferencia,2025,12,2025-12,-60.0
+2025-02-03,Ingreso,620.0,Ventas,Monitor 27 pulgadas,PayPal,2025,2,2025-02,620.0
+2025-04-03,Gasto,170.0,Publicidad,Campana remarketing,Tarjeta,2025,4,2025-04,-170.0
+2025-06-03,Gasto,88.0,Logistica,Envios marzo,Transferencia,2025,6,2025-06,-88.0
+2025-09-03,Gasto,60.0,Suscripciones,Plataforma ecommerce,Transferencia,2025,9,2025-09,-60.0
+2025-12-03,Ingreso,400.0,Ventas,Tablet 8 pulgadas,Tarjeta,2025,12,2025-12,400.0
+2025-01-04,Gasto,200.0,Publicidad,Campana lanzamiento nuevo producto,Tarjeta,2025,1,2025-01,-200.0
+2025-03-04,Ingreso,700.0,Ventas,Portatil ultraligero,PayPal,2025,3,2025-03,700.0
+2025-05-04,Gasto,92.0,Logistica,Envios abril,Transferencia,2025,5,2025-05,-92.0
+2025-08-04,Ingreso,380.0,Ventas,Impresora laser,Tarjeta,2025,8,2025-08,380.0
+2025-10-04,Gasto,60.0,Suscripciones,Plataforma ecommerce,Transferencia,2025,10,2025-10,-60.0
